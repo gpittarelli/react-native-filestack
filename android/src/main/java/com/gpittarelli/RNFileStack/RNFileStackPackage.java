@@ -1,5 +1,4 @@
-
-package com.bmustapha.RNFileStack;
+package com.gpittarelli.RNFileStack;
 
 import java.util.Arrays;
 import java.util.Collections;

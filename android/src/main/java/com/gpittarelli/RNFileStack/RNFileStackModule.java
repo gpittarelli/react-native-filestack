@@ -1,5 +1,4 @@
-
-package com.bmustapha.RNFileStack;
+package com.gpittarelli.RNFileStack;
 
 import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.bridge.ReactContextBaseJavaModule;

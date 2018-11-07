@@ -1,6 +1,5 @@
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.bmustapha.RNFileStack">
+          package="com.gpittarelli.RNFileStack">
 
 </manifest>
-  
