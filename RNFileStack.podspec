@@ -1,4 +1,3 @@
-
 Pod::Spec.new do |s|
   s.name         = "RNFileStack"
   s.version      = "1.0.0"
@@ -19,5 +18,3 @@ Pod::Spec.new do |s|
   s.source_files  = "ios/*.{h,m}"
   s.public_header_files = 'ios/RNFileStack.h"
 end
-
-  
