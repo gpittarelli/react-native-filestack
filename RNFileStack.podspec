@@ -4,21 +4,20 @@ Pod::Spec.new do |s|
   s.version      = "1.0.0"
   s.summary      = "RNFileStack"
   s.description  = <<-DESC
-                  RNFileStack
+                  Filestack picker for react-native
                    DESC
   s.homepage     = ""
   s.license      = "MIT"
-  # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
-  s.author             = { "author" => "author@domain.cn" }
+  s.author       = { "author" => "g@gjp.cc" }
   s.platform     = :ios, "7.0"
-  s.source       = { :git => "https://github.com/author/RNFileStack.git", :tag => "master" }
-  s.source_files  = "RNFileStack/**/*.{h,m}"
+  s.source       = { :git => "https://github.com/gpittarelli/react-native-filestack.git", :tag => "master" }
   s.requires_arc = true
-
 
   s.dependency "React"
   #s.dependency "others"
 
+  s.source_files  = "ios/*.{h,m}"
+  s.public_header_files = 'ios/RNFileStack.h"
 end
 
   
