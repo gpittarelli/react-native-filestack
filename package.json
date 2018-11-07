@@ -1,6 +1,6 @@
 {
   "name": "@gpittarelli/react-native-filestack",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "FileStack implementation for react-native",
   "main": "index.js",
   "scripts": {
