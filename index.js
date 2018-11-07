@@ -1,6 +1,1 @@
-
-import { NativeModules } from 'react-native';
-
-const { RNFileStack } = NativeModules;
-
-export default RNFileStack;
+module.exports = require('react-native').NativeModules.RNFileStack;
