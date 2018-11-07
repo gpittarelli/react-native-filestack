@@ -16,4 +16,5 @@ android {
 
 dependencies {
     implementation 'com.facebook.react:react-native:+'
+    implementation 'com.filestack:filestack-android:5.1.0'
 }
